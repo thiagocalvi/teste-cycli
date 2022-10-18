@@ -1,0 +1,22 @@
+{
+  "name": "teste-cycli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagocalvi/teste-cycli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagocalvi/teste-cycli/issues"
+  },
+  "homepage": "https://github.com/thiagocalvi/teste-cycli#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
